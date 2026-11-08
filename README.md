@@ -7,3 +7,5 @@
 Шаблон із підручника повертає Repository not found; використано власний мінімальний HTML-шаблон.
 
 Фото: Unsplash, https://images.unsplash.com/photo-1441974231531-c6227db76b6e, https://images.unsplash.com/photo-1464822759023-fed622ff2c3b, https://images.unsplash.com/photo-1472396961693-142e6e269027.
+
+Перевірено отримання змін у другій локальній копії.
